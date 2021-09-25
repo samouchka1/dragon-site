@@ -117,12 +117,12 @@ h1 {
     background-size: cover;
 }
 
-.oroborus-section {
+.bottom-section {
     margin-top: 1rem;
     text-align: center;
 }
 
-    #oroborus {
+    #bottom {
         width: 60%;
         max-height: 100vh;
     }
