@@ -331,4 +331,4 @@ h1 {
         font-family: 'Inconsolata', monospace;
     }
 
-    #signature {text-align: center; font-size: .9rem;}
+    #signature {text-align: center; font-size: .9rem; color: rgb(94, 94, 94);}
