@@ -88,7 +88,7 @@ h1 {
     }
 
 #text1, #text2, #text3 {
-    color:rgba(255, 255, 255, 0.15);
+    color:rgba(255, 255, 255, 0.40);
     position: absolute;
     text-align: center;
     font-family: 'Cinzel Decorative', 'cursive';
@@ -106,7 +106,7 @@ h1 {
         animation-fill-mode: forwards;
     }
         @keyframes appear {
-            0% {color:rgba(255, 255, 255, 0.15);}
+            0% {color:rgba(255, 255, 255, 0.40);}
             100% {color:rgb(255, 255, 255);}
         }
 
