@@ -44,6 +44,12 @@
             }
         }
 
+        .nav-links:hover {
+                transition: .5s;
+                color:rgba(255, 255, 255, 0.80);
+                text-shadow: 2px 2px 4px rgba(204, 204, 204, 0.65);
+            }
+
 h1 {
     color: rgb(200, 0, 0);
     font-family: 'Cinzel Decorative', 'cursive';
