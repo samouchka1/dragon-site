@@ -227,15 +227,16 @@ h1 {
 
 .slide-dragons {
     position: relative;
-    margin: auto;
     display: block;
+    margin: auto;
     text-align: center;
     height: 80vh;
-    width: 100%;
+    width: 85%;
 }
 
     @media (max-width: 48rem){
         .slide-dragons {
+        margin: 0;
         height: 50vh;
         width: 100%;
         }
