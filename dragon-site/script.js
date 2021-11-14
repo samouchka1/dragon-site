@@ -1,3 +1,17 @@
+let dragonButton = document.getElementsByClassName("dragon-info");
+
+for (i = 0; i < dragonButton.length; i++) {
+  dragonButton[i].addEventListener("click", function() {
+    let panel = this.previousElementSibling;
+    if (panel.style.opacity === "0") {
+      panel.style.opacity = "1";
+    } else {
+      panel.style.opacity = "0";
+    }
+  });
+}
+
+/*=============================================================================================================*/
 
 let slideIndex = 1;
 showSlides(slideIndex);
