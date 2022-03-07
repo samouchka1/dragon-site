@@ -131,7 +131,7 @@ body {
     position: absolute;
     top: 63%;
     background-color: rgba(0, 0, 0, 0.40);
-    opacity: 1; /*for JS*/
+    opacity: 0; /*for JS*/
     transition: .8s;
 }
 
